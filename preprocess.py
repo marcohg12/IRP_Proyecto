@@ -1,23 +1,18 @@
 # ---------------------------------------------------------------------------------------------------
 # Este archivo contiene el módulo de preprocesamiento del sistema
 # ---------------------------------------------------------------------------------------------------
+
 import cv2
 import numpy as np
-import os
-
-def process_image(path):
-    image = cv2.imread(path)
-    return image
 
 def noise_removal(image):
-    gaussian_blur = cv2.GaussianBlur(image, (3, 3), 0)
     bilateral_blur = cv2.bilateralFilter(image, 9, 40, 40)
     return bilateral_blur
 
 def improve_sharpness(image):
     kernel = np.array([[0, -0.5, 0], 
-                   [-0.5, 3, -0.5], 
-                   [0, -0.5, 0]])
+                       [-0.5, 3, -0.5], 
+                       [0, -0.5, 0]])
     sharpened = cv2.filter2D(image, -1, kernel)
     return sharpened
 
@@ -60,24 +55,3 @@ def intesify_color(image):
     intensified_image = cv2.cvtColor(hsv_intensified, cv2.COLOR_HSV2BGR)
     
     return intensified_image
-
-def main():
-    input_folder = 'images'
-    output_folder = 'images_preprocess'
-    
-    if not os.path.exists(output_folder):
-        os.makedirs(output_folder)
-
-    for filename in os.listdir(input_folder):
-        if filename.lower().endswith(('.jpg')):
-            image = process_image(os.path.join(input_folder, filename))
-            image = noise_removal(image)
-            image = improve_sharpness(image)
-            image = improve_lighting(image)
-            image = intesify_color(image)
-            
-            output_path = os.path.join(output_folder, filename)
-            cv2.imwrite(output_path, image)
-
-main()
-

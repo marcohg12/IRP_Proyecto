@@ -1,9 +1,9 @@
 # ---------------------------------------------------------------------------------------------------
 # Este archivo contiene el módulo del filtrador del sistema
 # ---------------------------------------------------------------------------------------------------
+
 import cv2
 import numpy as np
-import os
 
 #Función 1: determinar las coordenadas de una posible lapa, un 5% 
 # retorna una lista con las coordenadas de las lapas detectadas
@@ -56,29 +56,8 @@ def detect_macaw_coordinates(image, threshold=0.05):
 
 #Función 2: recortar la imagen con las coordenadas obtenidas de la función 1
 def crop_image(image, coordinates):
+
+    print(coordinates)
     x, y, w, h = coordinates
     cropped_image = image[y:y+h, x:x+w]
     return cropped_image
-
-def main():
-    input_folder = 'images_preprocess'
-    output_folder = 'images_filter'
-    
-    if not os.path.exists(output_folder):
-        os.makedirs(output_folder)
-
-    # Iterar sobre las imágenes preprocesadas
-    for filename in os.listdir(input_folder):
-        if filename.lower().endswith(('.jpg')):
-            image_path = os.path.join(input_folder, filename)
-            image = cv2.imread(image_path)
-            
-            macaw_coords = detect_macaw_coordinates(image)
-
-            for idx, coords in enumerate(macaw_coords):
-                cropped_image = crop_image(image, coords)
-                output_path = os.path.join(output_folder, f"{os.path.splitext(filename)[0]}_crop.jpg")
-                cv2.imwrite(output_path, cropped_image)
-
-if __name__ == "__main__":
-    main()

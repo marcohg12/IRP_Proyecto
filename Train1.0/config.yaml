@@ -1,7 +1,0 @@
-path: C:\Users\paubo\Downloads\Train # dataset root dir
-train: images  # train images (relative to 'path')
-val: images  # val images (relative to 'path')
-
-# Classes
-names:
-  0: macaw
