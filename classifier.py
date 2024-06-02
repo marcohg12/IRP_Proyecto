@@ -3,10 +3,12 @@
 # ---------------------------------------------------------------------------------------------------
 
 from ultralytics import YOLO 
+import cv2
 
 MODEL = None
 
-def detect_macaws(image):
+def detect_macaws(image, time_stamp):
+    
 
     global MODEL
 
@@ -21,5 +23,7 @@ def detect_macaws(image):
         boxes = result.boxes
         
         num_macaws += len(boxes)
+        result.show()
+        cv2.imwrite(f"images_results\{time_stamp}.jpg", image)
     
     return num_macaws

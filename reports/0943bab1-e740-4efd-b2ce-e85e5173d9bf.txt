@@ -1,0 +1,51 @@
+--------------------------------------- REPORTE DE AVISTAMIENTO --------------------------------------
+Fecha: 2024-06-02 12:00:44
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 13
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 14
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 15
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 16
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 17
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 18
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 26
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 32
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 33
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 34
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 35
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 36
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 42
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 43
+------------------------------------------------------------------------------------------------------
+
+

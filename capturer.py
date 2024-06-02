@@ -53,5 +53,8 @@ def process_image(image, time_stamp):
     else:
 
         reduced_img = crop_image(sharpness_improved_img, interest_area[0])
-        num_macaws = detect_macaws(reduced_img)
+        cv2.imwrite(f'images_analize\image_{time_stamp}.jpg', image)
+        num_macaws = detect_macaws(reduced_img, time_stamp)
         report_director(num_macaws)
+        with open('results2.txt', 'a') as file:
+            file.write(f'image_{time_stamp}.jpg ' + str(num_macaws) + '\n')
