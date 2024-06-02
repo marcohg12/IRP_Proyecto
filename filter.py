@@ -57,7 +57,7 @@ def detect_macaw_coordinates(image, threshold=0.05):
 #Función 2: recortar la imagen con las coordenadas obtenidas de la función 1
 def crop_image(image, coordinates):
 
-    print(coordinates)
+    #print(coordinates)
     x, y, w, h = coordinates
     cropped_image = image[y:y+h, x:x+w]
     return cropped_image

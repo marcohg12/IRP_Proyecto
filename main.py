@@ -9,9 +9,9 @@ import os
 
 def test_system():
 
-    #video_path = "videos/video_1.mp4"
+    # video_path = "videos/video_1.mp4"
 
-    #process_video(video_path)
+    # process_video(video_path)
     image_files = [f for f in os.listdir('images') if os.path.isfile(os.path.join('images', f))]
 
     for file_name in image_files:
@@ -56,7 +56,7 @@ def calculate_acceptance_error_percentage(expected_file, results_file):
 
     return acceptance_percentage, error_percentage
 
-#test_system()
+test_system()
 acceptance_percentage, error_percentage = calculate_acceptance_error_percentage('expected_results2.txt', 'results2.txt')
 print("Acceptance Percentage:", acceptance_percentage)
 print("Error Percentage:", error_percentage)
