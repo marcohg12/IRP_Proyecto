@@ -46,16 +46,15 @@ def process_image(image, time_stamp):
 
     interest_area = detect_macaw_coordinates(sharpness_improved_img)
 
-    if (interest_area == []):
-
+    if (interest_area == [] or interest_area[0][2] == 0 or interest_area[0][3] == 0):
         report_director(0)
+        with open('results2.txt', 'a') as file:
+            file.write(f'image_{time_stamp}.jpg ' + str(0) + '\n')
 
     else:
-
         reduced_img = crop_image(sharpness_improved_img, interest_area[0])
-        if reduced_img.shape[0] != 0 or reduced_img.shape[1] != 0:
-            cv2.imwrite(f'images_analize\image_{time_stamp}.jpg', image)
-            num_macaws = detect_macaws(reduced_img, time_stamp)
-            report_director(num_macaws)
-            with open('results2.txt', 'a') as file:
-                file.write(f'image_{time_stamp}.jpg ' + str(num_macaws) + '\n')
+        cv2.imwrite(f'images_analize\image_{time_stamp}.jpg', image)
+        num_macaws = detect_macaws(reduced_img, time_stamp)
+        report_director(num_macaws)
+        with open('results2.txt', 'a') as file:
+            file.write(f'image_{time_stamp}.jpg ' + str(num_macaws) + '\n')

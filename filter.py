@@ -61,3 +61,15 @@ def crop_image(image, coordinates):
     x, y, w, h = coordinates
     cropped_image = image[y:y+h, x:x+w]
     return cropped_image
+
+# def main():
+#     image = cv2.imread('images/zz7.jpg')
+#     coordinates = detect_macaw_coordinates(image)
+#     cropped_image = crop_image(image, coordinates[0])
+#     cv2.imshow('Cropped Image', cropped_image)
+#     cv2.waitKey(0)
+#     cv2.destroyAllWindows()
+
+
+# if __name__ == "__main__":
+#     main()
