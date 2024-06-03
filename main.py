@@ -19,8 +19,9 @@ def test_system():
         # Read the image
         image = cv2.imread(file_path)
         if image is not None:
+            if image.shape[0] != 0 or image.shape[1] != 0:
             # Send the image to the processing function along with the timestamp
-            process_image(image, (0, 0))
+                process_image(image, (0, 0))
 
 def calculate_acceptance_error_percentage(expected_file, results_file):
     # Función interna para analizar los números de las líneas

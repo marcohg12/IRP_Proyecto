@@ -24,6 +24,6 @@ def detect_macaws(image, time_stamp):
         
         num_macaws += len(boxes)
         #result.show()
-        cv2.imwrite(f"images_results2\{time_stamp}.jpg", image)
+        cv2.imwrite(f"images_results\{time_stamp}.jpg", image)
     
     return num_macaws
