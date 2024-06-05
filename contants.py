@@ -2,4 +2,4 @@
 # Este archivo contiene constantes para el programa
 # ---------------------------------------------------------------------------------------------------
 
-TEST_FLAG = True
+TEST_FLAG = False
