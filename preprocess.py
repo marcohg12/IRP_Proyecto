@@ -5,22 +5,34 @@
 import cv2
 import numpy as np
 
+# Recibe una imagen cargada con openCV
+# Retorna una imagen con el ruido reducido
 def noise_removal(image):
+
     bilateral_blur = cv2.bilateralFilter(image, 9, 40, 40)
+
     return bilateral_blur
 
+# Recibe una imagen cargada con openCV
+# Retorna una imagen con la nitidez y bordes mejorados
 def improve_sharpness(image):
+
     kernel = np.array([[0, -0.5, 0], 
                        [-0.5, 3, -0.5], 
                        [0, -0.5, 0]])
+    
     sharpened = cv2.filter2D(image, -1, kernel)
+
     return sharpened
 
+# Recibe una imagen cargada con openCV
+# Retorna una imagen con la iluminación mejorada
 def improve_lighting(image):
     improved_lighting = cv2.convertScaleAbs(image, alpha=1.2, beta=20)
     return improved_lighting
     
 def intensify_color_aux(hsv_image, lower_bound, upper_bound, increase_value):
+
     # Crear máscara para el rango de color
     mask = cv2.inRange(hsv_image, lower_bound, upper_bound)
     
@@ -30,7 +42,10 @@ def intensify_color_aux(hsv_image, lower_bound, upper_bound, increase_value):
     
     return hsv_intensified
 
+# Recibe una imagen cargada con openCV
+# Retorna una imagen con los colores de las lapas mejorados
 def intesify_color(image):
+    
     # Convertir la imagen a HSV
     hsv_image = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
     

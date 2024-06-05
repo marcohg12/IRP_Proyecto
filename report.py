@@ -17,6 +17,7 @@ class Veredict_Type(Enum):
     START = 3
     END = 4
 
+# Restaura los valores por defecto de las variables globales
 def clean_up():
 
     global SESSION_FILENAME
@@ -28,12 +29,15 @@ def clean_up():
     global LAST_NUMBER_OF_MACAWS_SEEN
     LAST_NUMBER_OF_MACAWS_SEEN = 0
 
-
+# Recibe una marca de tiempo y la guarda en una variable global
 def process_time_stamp(time_stamp):
     
     global TIME_STAMP
     TIME_STAMP = time_stamp
 
+# Recibe la cantidad de lapas detectadas
+# Genera un veredicto con base en el último procesamiento y guarda el veredicto
+# en el archivo de la sesión
 def report_director(num_macaws):
 
     global LAST_NUMBER_OF_MACAWS_SEEN
@@ -48,6 +52,7 @@ def report_director(num_macaws):
     details = ""
     veredict_type = None
 
+    # Hay un inicio de avistamiento
     if (LAST_NUMBER_OF_MACAWS_SEEN == 0 and num_macaws > 0):
 
         veredict = "--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------"
@@ -55,12 +60,14 @@ def report_director(num_macaws):
         veredict_type = Veredict_Type.START
         changes = True
 
+    # Hay un fin de avistamiento
     elif (LAST_NUMBER_OF_MACAWS_SEEN > 0 and num_macaws == 0):
 
         veredict = "FIN DE AVISTAMIENTO"
         veredict_type = Veredict_Type.END
         changes = True
 
+    # Hay un decremento en los ejemplares dentro del avistamiento
     elif (LAST_NUMBER_OF_MACAWS_SEEN > 0 and LAST_NUMBER_OF_MACAWS_SEEN > num_macaws):
 
         veredict = "DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS"
@@ -68,6 +75,7 @@ def report_director(num_macaws):
         veredict_type = Veredict_Type.DECREMENT
         changes = True
 
+    # Hay un incremento de los ejemplares dentro del avistamiento
     elif (LAST_NUMBER_OF_MACAWS_SEEN > 0 and LAST_NUMBER_OF_MACAWS_SEEN < num_macaws):
 
         veredict = "INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS"
@@ -75,17 +83,20 @@ def report_director(num_macaws):
         veredict_type = Veredict_Type.INCREMENT
         changes = True
     
+    # Si hay un cambio se registra en el archivo
     if (changes):
 
         write_in_file(veredict, details, time_str, veredict_type)
 
     LAST_NUMBER_OF_MACAWS_SEEN = num_macaws
 
-
+# Recibe el veredicto, detalles, marca de tiempo en string y el tipo de veredicto
+# Formatea los strings y los escribe en el archivo de la sesión
 def write_in_file(veredict, details, time_str, veredict_type):
 
     global SESSION_FILENAME
 
+    # Si no hay archivo de sesión, genera el archivo y coloca el encabezado
     if (not SESSION_FILENAME):
 
         SESSION_FILENAME = str(uuid.uuid4()) + ".txt"
@@ -96,6 +107,7 @@ def write_in_file(veredict, details, time_str, veredict_type):
             file.write("--------------------------------------- REPORTE DE AVISTAMIENTO --------------------------------------\n")
             file.write("Fecha: " + str(current_datetime) + "\n\n")
     
+    # Genera el reporte
     with open("reports/" + SESSION_FILENAME, 'a') as file:
 
         if (veredict_type == Veredict_Type.END):

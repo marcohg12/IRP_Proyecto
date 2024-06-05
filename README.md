@@ -1,7 +1,7 @@
-# Introducción al Reconocimiento de Patrones
-## Proyecto
+# Introducción al Reconocimiento de Patrones: Proyecto
 
-Integrantes:
+## Integrantes
+
 - Marco Herrera González
 - María Paula Bolaños Apú
 - Bianka Mora Melendez
