@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>image_8.jpg</filename>
+	<path>/my-project-name/image_8.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Lapa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>597</ymin>
+			<xmax>705</xmax>
+			<ymax>1863</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lapa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>488</xmin>
+			<ymin>284</ymin>
+			<xmax>1280</xmax>
+			<ymax>1188</ymax>
+		</bndbox>
+	</object>
+</annotation>
