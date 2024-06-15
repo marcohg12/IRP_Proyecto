@@ -9,6 +9,7 @@ TIME_STAMP = None
 LAST_NUMBER_OF_MACAWS_SEEN = 0
 from enum import Enum
 from datetime import datetime
+from classifier import clean_up_model
 
 class Veredict_Type(Enum):
 
@@ -28,6 +29,8 @@ def clean_up():
 
     global LAST_NUMBER_OF_MACAWS_SEEN
     LAST_NUMBER_OF_MACAWS_SEEN = 0
+
+    clean_up_model()
 
 # Recibe una marca de tiempo y la guarda en una variable global
 def process_time_stamp(time_stamp):

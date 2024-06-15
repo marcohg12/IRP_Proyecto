@@ -11,9 +11,25 @@ def main():
 
     video_path = "videos/video_1.mp4"
 
-    process_video(video_path)
+    start_time = time.time()
+    process_video(video_path, "YOLO")
+    end_time = time.time()
 
     clean_up()
+
+    execution_time = end_time - start_time
+    print("Tiempo de ejecución del video con YOLO:", execution_time, "segundos")
+
+    # # ---------------------------------------------
+
+    start_time = time.time()
+    process_video(video_path, "DETECTO")
+    end_time = time.time()
+
+    clean_up()
+
+    execution_time = end_time - start_time
+    print("Tiempo de ejecución del video con DETECTO:", execution_time, "segundos")
 
     # # ---------------------------------------------
 
@@ -22,7 +38,7 @@ def main():
     img = cv2.imread(img_path)
 
     start_time = time.time()
-    process_image(img)
+    process_image(img, "DETECTO")
     end_time = time.time()
 
     execution_time = end_time - start_time

@@ -12,7 +12,7 @@ from contants import TEST_FLAG
 # Recibe la ruta del video a procesar
 # Procesa el video frame por frame. Por cada frame, se envía al procesador de imágenes
 # junto con la marca de tiempo del frame
-def process_video(video_path):
+def process_video(video_path, model_to_use):
 
     video_capture = cv2.VideoCapture(video_path)
     frame_count = 0
@@ -28,7 +28,7 @@ def process_video(video_path):
             time_stamp = video_capture.get(cv2.CAP_PROP_POS_MSEC)
             time_stamp = (int(time_stamp) // 60000, int((time_stamp % 60000) / 1000))
 
-            process_image(frame, time_stamp)
+            process_image(frame, model_to_use, time_stamp)
             
         frame_count += 1
         
@@ -41,7 +41,7 @@ def process_video(video_path):
 # Recibe una imagen cargada con openCV y la marca de tiempo de la imagen
 # Aplica el preprocesamiento y filtrado de la imagen. Luego, envía la imagen
 # para la clasificación con YOLO y luego al director de reporte
-def process_image(image, time_stamp = (0, 0)):
+def process_image(image, model_to_use, time_stamp = (0, 0)):
 
     global TEST_FLAG
 
@@ -72,7 +72,7 @@ def process_image(image, time_stamp = (0, 0)):
         reduced_img = crop_image(sharpness_improved_img, interest_area[0])
 
         # Se clasifica la imagen y se envía el resultado al director de reporte
-        num_macaws = detect_macaws(reduced_img, time_stamp, "DETECTO")
+        num_macaws = detect_macaws(reduced_img, time_stamp, model_to_use)
         report_director(num_macaws)
 
         if (TEST_FLAG):

@@ -10,6 +10,11 @@ from PIL import Image
 
 MODEL = None
 
+def clean_up_model():
+
+    global MODEL
+    MODEL = None
+
 # Recibe una imagen cargada con openCV y la marca de tiempo de la imagen
 # Realiza el conteo de lapas en la imagen con el modelo indicado por el parámetro (YOLO o DETECTO)
 # Retorna la cantidad de lapas detectadas en la imagen con una confianza de
@@ -26,7 +31,7 @@ def detect_macaws(image, time_stamp, model_to_use):
         if (not MODEL):
             MODEL = YOLO("training/runs/detect/train/weights/best.pt", task = "detect") 
         
-        results = MODEL(image, conf = 0.9)
+        results = MODEL(image, conf = 0.90)
 
         for result in results:
             
@@ -40,6 +45,7 @@ def detect_macaws(image, time_stamp, model_to_use):
     elif (model_to_use == "DETECTO"):
 
         if (not MODEL):
+            print("aqui")
             MODEL = core.Model.load('model_weights.pth', ['Lapa'])
 
         pil_image = Image.fromarray(image)
@@ -50,7 +56,7 @@ def detect_macaws(image, time_stamp, model_to_use):
         
         for i in range(0, len(labels)):
             
-            if (scores[i] > 0.80):
+            if (scores[i] > 0.90):
                 num_macaws += 1
     
     return num_macaws
