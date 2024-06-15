@@ -3,20 +3,17 @@
 # ---------------------------------------------------------------------------------------------------
 
 from capturer import process_video, process_image
-from classifier import load_model
 from report import clean_up
 import cv2
 import time
 
 def main():
 
-    model = load_model()
+    video_path = "videos/video_1.mp4"
 
-    # video_path = "videos/video_1.mp4"
+    process_video(video_path)
 
-    # process_video(video_path, model)
-
-    # clean_up()
+    clean_up()
 
     # # ---------------------------------------------
 
@@ -25,7 +22,7 @@ def main():
     img = cv2.imread(img_path)
 
     start_time = time.time()
-    process_image(model, img)
+    process_image(img)
     end_time = time.time()
 
     execution_time = end_time - start_time
