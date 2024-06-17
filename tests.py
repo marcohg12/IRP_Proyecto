@@ -28,16 +28,16 @@ def calculate_acceptance_error_percentage(expected_file, results_file):
 
     # Calcular el porcentaje correcto obtenido por línea
     for exp, res in zip(expected_numbers, results_numbers):
-        if exp == 0:
-            line_correct_percentages.append(100 if res == 0 else 0)  # Manejo de división por cero
+        if exp == res:
+            line_correct_percentages.append(1)
         else:
-            line_correct_percentages.append((res / exp) * 100)
+            line_correct_percentages.append(0)
 
     # Calcular el porcentaje de aceptación global y el porcentaje de error global
     total_lines = len(line_correct_percentages)
     total_correct_percentage = sum(line_correct_percentages)
     
-    acceptance_percentage = total_correct_percentage / total_lines
+    acceptance_percentage = (total_correct_percentage / total_lines) * 100
     error_percentage = 100 - acceptance_percentage
 
     return acceptance_percentage, error_percentage
@@ -56,7 +56,7 @@ def test_system():
 
             if image.shape[0] != 0 or image.shape[1] != 0:
 
-                process_image(image, (0, 0))
+                process_image(image, "YOLO", (0, 0))
 
 test_system()
 acceptance_percentage, error_percentage = calculate_acceptance_error_percentage('test_data/expected_results2.txt', 'test_data/results2.txt')

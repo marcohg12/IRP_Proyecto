@@ -29,7 +29,7 @@ def detect_macaws(image, time_stamp, model_to_use):
     if (model_to_use == "YOLO"):
         
         if (not MODEL):
-            MODEL = YOLO("training/runs/detect/train/weights/best.pt", task = "detect") 
+            MODEL = YOLO("training/runs/detect/train5/weights/best.pt", task = "detect") 
         
         results = MODEL(image, conf = 0.90)
 
@@ -38,8 +38,8 @@ def detect_macaws(image, time_stamp, model_to_use):
             boxes = result.boxes
             num_macaws += len(boxes)
             
-            if (TEST_FLAG):
-                cv2.imwrite(f"test_data/images_results/{time_stamp}.jpg", image)
+        if (TEST_FLAG):
+            cv2.imwrite(f"test_data/images_results/{time_stamp}.jpg", image, num_macaws)
 
     # Clasificación con DETECTO
     elif (model_to_use == "DETECTO"):

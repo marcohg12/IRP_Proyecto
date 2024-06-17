@@ -1,0 +1,23 @@
+--------------------------------------- REPORTE DE AVISTAMIENTO --------------------------------------
+Fecha: 2024-06-17 03:41:23
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 2. En el minuto 0 segundo 13
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 15
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 20
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 28
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 29
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 30
+

@@ -1,0 +1,466 @@
+--------------------------------------- REPORTE DE AVISTAMIENTO --------------------------------------
+Fecha: 2024-06-17 03:13:34
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 3. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 3. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 3. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 3. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 3. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 3. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 3. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 4. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 4. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 4. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 4. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 3. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 3. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 4. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 4. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 3. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 4. Cantidad anterior: 3. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 4. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 3. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 3. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 3. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 3. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 4. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 3. Cantidad anterior: 4. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 3. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 2. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 3. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 3. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 4. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 4. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 4. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 4. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 3. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 3. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 5. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 5. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 2. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 2. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 3. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 3. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 2. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 2. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 0
+
+INCREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 2. Cantidad anterior: 1. En el minuto 0 segundo 0
+
+DECREMENTO EN LA CANTIDAD DE EJEMPLARES OBSERVADOS
+Cantidad de lapas actualmente: 1. Cantidad anterior: 2. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------- INICIO DE AVISTAMIENTO ---------------------------------------
+Cantidad de lapas observadas: 1. En el minuto 0 segundo 0
+
+FIN DE AVISTAMIENTO. En el minuto 0 segundo 0
+------------------------------------------------------------------------------------------------------
+
+
