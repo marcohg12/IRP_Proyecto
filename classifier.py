@@ -45,7 +45,6 @@ def detect_macaws(image, time_stamp, model_to_use):
     elif (model_to_use == "DETECTO"):
 
         if (not MODEL):
-            print("aqui")
             MODEL = core.Model.load('model_weights.pth', ['Lapa'])
 
         pil_image = Image.fromarray(image)

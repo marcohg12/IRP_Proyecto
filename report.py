@@ -3,6 +3,8 @@
 # ---------------------------------------------------------------------------------------------------
 
 import uuid
+import shutil
+import os
 
 SESSION_FILENAME = None
 TIME_STAMP = None
@@ -31,6 +33,27 @@ def clean_up():
     LAST_NUMBER_OF_MACAWS_SEEN = 0
 
     clean_up_model()
+
+# Descarga el último reporte realizado
+def download_report():
+
+    global SESSION_FILENAME
+
+    if (not SESSION_FILENAME):
+        return False
+    
+    downloads_dir = os.path.join(os.path.expanduser("~"), "Downloads")
+    
+    source_path = os.path.join("reports", SESSION_FILENAME)
+    destination_path = os.path.join(downloads_dir, SESSION_FILENAME)
+    
+    if os.path.exists(source_path):
+
+        shutil.copy(source_path, destination_path)
+        os.remove(source_path)
+        return True
+    
+    return False
 
 # Recibe una marca de tiempo y la guarda en una variable global
 def process_time_stamp(time_stamp):
